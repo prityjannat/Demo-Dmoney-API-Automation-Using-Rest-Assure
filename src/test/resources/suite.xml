@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suit>
+        <test name="Dmoney API Automation">
+            <classess name="Dmoney API Automation">
+                <class name = "testrunner.UserTestRunner"> </class>
+            </classess>
+        </test>
+</suit>
